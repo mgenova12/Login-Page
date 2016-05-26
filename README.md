@@ -1,2 +1,2 @@
 # Login-Page
-Simple JQuery Login Page
+Simple Login Page. HTML, CSS, Bootstrap, jQuery
